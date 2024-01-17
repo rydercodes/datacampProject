@@ -26,6 +26,8 @@ You'll work with the following data in the `datasets` folder:
 Read in, merge, and clean the four datasets to make a single combined pandas DataFrame.
 
 Create a single pandas DataFrame called employees_final containing:
+
 **Index:** employee_id,
+
 **Columns:** employee_first_name, employee_last_name, employee_country, employee_city, employee_street, employee_street_number, emergency_contact, emergency_contact_number, relationship, monthly_salary, team, title, office, office_country, office_city, office_street, office_street_number.
 Change any missing values in column names starting with office to the word "Remote".
