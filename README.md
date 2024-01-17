@@ -21,7 +21,7 @@ You'll work with the following data in the `datasets` folder:
  ...
 }
 ```
-====================================================================================
+=========================================================================
 
 Read in, merge, and clean the four datasets to make a single combined pandas DataFrame.
 
